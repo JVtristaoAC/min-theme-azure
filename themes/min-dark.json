@@ -69,6 +69,7 @@
     "debugIcon.stepOutForeground": "#FF7A84",
     "debugIcon.stepOverForeground": "#FF7A84",
     "debugIcon.stopForeground": "#79b8ff",
+		"button.border": "#333333",
     "debugIcon.breakpointCurrentStackframeForeground": "#79b8ff",
     "debugIcon.breakpointDisabledForeground": "#848484",
     "debugIcon.breakpointForeground": "#FF7A84",
