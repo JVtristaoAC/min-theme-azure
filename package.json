@@ -1,0 +1,28 @@
+{
+    "name": "min-theme",
+    "displayName": "Min Theme",
+    "description": "A port of the VSCode Min Theme by miguelsolorio for use with Azure Data Studio.",
+    "publisher": "JVtristaoAC",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.39.0",
+        "azdata": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Min Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/min-dark.json"
+            },
+            {
+                "label": "Min Light",
+                "uiTheme": "vs",
+                "path": "./themes/min-light.json"
+            }
+        ]
+    }
+}
