@@ -1,6 +1,6 @@
 {
-    "name": "min-theme",
-    "displayName": "Min Theme",
+    "name": "min-theme-azure",
+    "displayName": "Min Theme for Azure Data Studio",
     "description": "A port of the VSCode Min Theme by miguelsolorio for use with Azure Data Studio.",
     "publisher": "JVtristaoAC",
     "version": "1.0.0",
@@ -8,9 +8,18 @@
         "vscode": "^1.39.0",
         "azdata": "*"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JVtristaoAC/min-theme.git"
+    },
     "categories": [
         "Themes"
     ],
+    "icon": "resources/icon.png",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
