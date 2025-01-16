@@ -1,7 +1,7 @@
 # Min Theme for Azure Data Studio
 
 <div align="center">
-  <img src="https://github.com/JVtristaoAC/min-theme-azure/blob/6a7aa1026eb72372ca28e0b99df5b1836500a7a4/resources/icon.png" height="100" />
+  <img src="https://github.com/JVtristaoAC/min-theme-azure/blob/main/resources/icon.png?raw=true" height="100" alt="min-theme-azure-icon" />
 </div>
 <br />
 
@@ -35,7 +35,7 @@ This extension includes the following Min Theme variants:
 ### Min Dark
 
 <div align="center">
-  <img src="https://github.com/JVtristaoAC/min-theme-azure/blob/6a7aa1026eb72372ca28e0b99df5b1836500a7a4/resources/screenshots/dark-mode.png" />
+  <img src="https://github.com/JVtristaoAC/min-theme-azure/blob/main/resources/screenshots/dark-mode.png?raw=true" alt="dark-mode-screenshot" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ This extension includes the following Min Theme variants:
 ### Min Light
 
 <div align="center">
-  <img src="https://github.com/JVtristaoAC/min-theme-azure/blob/6a7aa1026eb72372ca28e0b99df5b1836500a7a4/resources/screenshots/light-mode.png" />
+  <img src="https://github.com/JVtristaoAC/min-theme-azure/blob/main/resources/screenshots/light-mode.png?raw=true" alt="light-mode-screenshot" />
 </div>
 
 ## Contributing
