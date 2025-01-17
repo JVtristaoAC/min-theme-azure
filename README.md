@@ -13,7 +13,7 @@ Min Theme is designed for developers who appreciate simplicity and focus. It fea
 
 ### Marketplace (Coming Soon)
 
-The extension is published to the Azure Data Studio marketplace, you can install it directly from [there](https://marketplace.visualstudio.com/items?itemName=JVtristaoAC.min-theme-azure).
+Once The extension is published to the Azure Data Studio marketplace, you can install it directly from there.
 
 ### Manual Installation
 
